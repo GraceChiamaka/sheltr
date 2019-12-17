@@ -1,0 +1,96 @@
+.navbar-nav{
+    .nav-link {
+        i{
+            font-size: 20px;
+            margin-right: 3.3rem;
+            color: $grey;
+        }
+    }
+}
+.banner-text{
+    position: absolute;
+    width: 100%;
+    top: 112px;
+    left:0;
+    h1{
+        text-align: center;
+        font-size: 180px;
+        font-weight: 800;
+        letter-spacing: -3px;
+        font-family: 'Poppins', sans-serif;
+        color: $sheltr;
+        line-height: 270px;	
+        text-shadow: 0 28px 40px 0 rgba(0,0,0,0.09) !important;
+        span{
+            color: #fff;
+        }
+    }
+    p{
+        color: #555060;	
+        font-size: 26px;	
+        font-weight: 300;	
+        letter-spacing: -0.43px;	
+        line-height: 34px;
+        text-align: center;
+        margin-top: -2rem;
+    }
+    .explore-text{
+        color: #555060;
+        font-size: 20px;	
+        font-weight: bold;	
+        letter-spacing: 1px;	
+        line-height: 27px;	
+        text-align: center;
+        margin-top: 162px;
+    }
+    .explore{
+        span{
+            background: #fff;
+            padding: 20px;
+            border-radius: 50%;
+            position: absolute;
+            bottom: -20%;
+            i{
+                color: #A178F9;
+                font-size: 26px;
+            }
+        }
+    }
+}
+section{
+    .second-layer-bg{
+        background-image: url('../../../assets/images/backgrounds/phone_bg.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 500px;
+        height: 800px;
+        position: absolute;
+        bottom: -282px;
+        /* z-index: 100; */
+        left: 32%;
+    }
+}
+.description{
+    position: relative;
+    margin-top: 58rem;
+    .heading{
+        margin-top: 150px;
+        h3{
+            color: $sheltr;
+            font-family: 'Poppins', sans-serif;	
+            font-size: 48px;
+            font-weight: bold;
+            letter-spacing: 1px;
+            line-height: 60px;
+            text-align: right;
+        }
+        p{
+            color: #555060;	
+            font-size: 20px;	
+            font-weight: 300;	
+            letter-spacing: 0.43px;	
+            line-height: 31px;	
+            text-align: right;
+        }
+    }
+}

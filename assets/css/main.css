@@ -1,0 +1,184 @@
+/* SHELTR 2019
+* All imports 
+* v1
+*/
+/* line 1, ../../../Projects/My Workspace/SHELTR/assets/scss/base/_base.scss */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* line 6, ../../../Projects/My Workspace/SHELTR/assets/scss/base/_base.scss */
+html, body {
+  width: 100%;
+  background: #fff;
+  font-size: 16px;
+  font-weight: normal;
+}
+
+/**** MARGINS *****/
+/* line 13, ../../../Projects/My Workspace/SHELTR/assets/scss/base/_base.scss */
+.ml--4 {
+  margin-left: 4.4rem;
+}
+
+/**** PADDINGS *****/
+/**** COLORS *****/
+/* line 19, ../../../Projects/My Workspace/SHELTR/assets/scss/base/_base.scss */
+.c-brand {
+  color: #6F49C1;
+}
+
+/* line 22, ../../../Projects/My Workspace/SHELTR/assets/scss/base/_base.scss */
+.c-grey {
+  color: #BAC3E5;
+}
+
+/**** FONT-SIZE ****/
+/* line 28, ../../../Projects/My Workspace/SHELTR/assets/scss/base/_base.scss */
+.f-16 {
+  font-size: 16px;
+}
+
+/* line 31, ../../../Projects/My Workspace/SHELTR/assets/scss/base/_base.scss */
+.f-18 {
+  font-size: 18px;
+}
+
+/* line 34, ../../../Projects/My Workspace/SHELTR/assets/scss/base/_base.scss */
+.f-20 {
+  font-size: 20px;
+}
+
+/***** Z_INDEX *****/
+/* line 39, ../../../Projects/My Workspace/SHELTR/assets/scss/base/_base.scss */
+.z-100 {
+  z-index: 100;
+}
+
+/* line 43, ../../../Projects/My Workspace/SHELTR/assets/scss/base/_base.scss */
+.rounded-btn {
+  border-radius: 30px !important;
+}
+
+/* line 47, ../../../Projects/My Workspace/SHELTR/assets/scss/base/_base.scss */
+.brand-btn:hover {
+  color: #6F49C1;
+}
+
+/* line 3, ../../../Projects/My Workspace/SHELTR/assets/scss/components/custom.scss */
+.navbar-nav .nav-link i {
+  font-size: 20px;
+  margin-right: 3.3rem;
+  color: #BAC3E5;
+}
+
+/* line 10, ../../../Projects/My Workspace/SHELTR/assets/scss/components/custom.scss */
+.banner-text {
+  position: absolute;
+  width: 100%;
+  top: 112px;
+  left: 0;
+}
+
+/* line 15, ../../../Projects/My Workspace/SHELTR/assets/scss/components/custom.scss */
+.banner-text h1 {
+  text-align: center;
+  font-size: 180px;
+  font-weight: 800;
+  letter-spacing: -3px;
+  font-family: 'Poppins', sans-serif;
+  color: #6F49C1;
+  line-height: 270px;
+  text-shadow: 0 28px 40px 0 rgba(0, 0, 0, 0.09) !important;
+}
+
+/* line 24, ../../../Projects/My Workspace/SHELTR/assets/scss/components/custom.scss */
+.banner-text h1 span {
+  color: #fff;
+}
+
+/* line 28, ../../../Projects/My Workspace/SHELTR/assets/scss/components/custom.scss */
+.banner-text p {
+  color: #555060;
+  font-size: 26px;
+  font-weight: 300;
+  letter-spacing: -0.43px;
+  line-height: 34px;
+  text-align: center;
+  margin-top: -2rem;
+}
+
+/* line 37, ../../../Projects/My Workspace/SHELTR/assets/scss/components/custom.scss */
+.banner-text .explore-text {
+  color: #555060;
+  font-size: 20px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  line-height: 27px;
+  text-align: center;
+  margin-top: 162px;
+}
+
+/* line 47, ../../../Projects/My Workspace/SHELTR/assets/scss/components/custom.scss */
+.banner-text .explore span {
+  background: #fff;
+  padding: 20px;
+  border-radius: 50%;
+  position: absolute;
+  bottom: -20%;
+}
+
+/* line 53, ../../../Projects/My Workspace/SHELTR/assets/scss/components/custom.scss */
+.banner-text .explore span i {
+  color: #A178F9;
+  font-size: 26px;
+}
+
+/* line 61, ../../../Projects/My Workspace/SHELTR/assets/scss/components/custom.scss */
+section .second-layer-bg {
+  background-image: url("../../../assets/images/backgrounds/phone_bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 500px;
+  height: 800px;
+  position: absolute;
+  bottom: -282px;
+  /* z-index: 100; */
+  left: 32%;
+}
+
+/* line 73, ../../../Projects/My Workspace/SHELTR/assets/scss/components/custom.scss */
+.description {
+  position: relative;
+  margin-top: 58rem;
+}
+
+/* line 76, ../../../Projects/My Workspace/SHELTR/assets/scss/components/custom.scss */
+.description .heading {
+  margin-top: 150px;
+}
+
+/* line 78, ../../../Projects/My Workspace/SHELTR/assets/scss/components/custom.scss */
+.description .heading h3 {
+  color: #6F49C1;
+  font-family: 'Poppins', sans-serif;
+  font-size: 48px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  line-height: 60px;
+  text-align: right;
+}
+
+/* line 87, ../../../Projects/My Workspace/SHELTR/assets/scss/components/custom.scss */
+.description .heading p {
+  color: #555060;
+  font-size: 20px;
+  font-weight: 300;
+  letter-spacing: 0.43px;
+  line-height: 31px;
+  text-align: right;
+}
+
+/*# sourceMappingURL=main.css.map */

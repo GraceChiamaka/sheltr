@@ -1,0 +1,11 @@
+.main-bg{
+    width: 100%;
+    background-image: url('../images/backgrounds/landing_bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 700px;
+    position: absolute;
+    top: 0;
+    z-index: 1;
+}

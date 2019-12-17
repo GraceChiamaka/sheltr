@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body{
+    width: 100%;
+    background: #fff;
+    font-size: 16px;
+    font-weight: normal;
+}
+/**** MARGINS *****/
+.ml--4{
+    margin-left: 4.4rem;
+}
+/**** PADDINGS *****/
+
+/**** COLORS *****/
+.c-brand{
+    color: $sheltr;
+}
+.c-grey{
+    color: $grey
+}
+
+
+/**** FONT-SIZE ****/
+.f-16{
+    font-size: 16px;
+}
+.f-18{
+    font-size: 18px;
+}
+.f-20{
+    font-size: 20px;
+}
+
+/***** Z_INDEX *****/
+.z-100{
+    z-index: 100;
+}
+
+.rounded-btn{
+    border-radius: 30px !important;
+}
+.brand-btn{
+    &:hover{
+        color: $sheltr;
+    }
+}
