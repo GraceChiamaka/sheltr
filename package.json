@@ -98,7 +98,7 @@
     "graceful-fs": "^4.2.3",
     "has-cors": "^1.1.0",
     "immutable": "^3.8.2",
-    "http-proxy": "^1.15.2",
+    "http-proxy": "^1.18.1",
     "inherits": "^2.0.4",
     "indexof": "^0.0.1",
     "hosted-git-info": "^2.8.5",
