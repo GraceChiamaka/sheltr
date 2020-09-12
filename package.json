@@ -249,7 +249,7 @@
     "xmlhttprequest-ssl": "^1.5.5",
     "to-array": "^0.1.4",
     "wrap-ansi": "^2.1.0",
-    "yargs-parser": "^4.2.1",
+    "yargs-parser": "^13.1.2",
     "window-size": "^0.2.0",
     "yargs": "^6.4.0",
     "yeast": "^0.1.2",
