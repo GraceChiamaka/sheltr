@@ -235,7 +235,7 @@
     "union-value": "^1.0.1",
     "universalify": "^0.1.2",
     "supports-color": "^2.0.0",
-    "ua-parser-js": "^0.7.17",
+    "ua-parser-js": "^0.7.24",
     "unpipe": "^1.0.0",
     "unset-value": "^1.0.0",
     "string_decoder": "^1.1.1",
