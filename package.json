@@ -91,7 +91,7 @@
     "fs-extra": "^3.0.1",
     "has-binary2": "^1.0.3",
     "has-ansi": "^2.0.0",
-    "glob-parent": "^3.1.0",
+    "glob-parent": "^5.1.2",
     "has-values": "^1.0.0",
     "http-errors": "^1.6.3",
     "has-value": "^1.0.0",
