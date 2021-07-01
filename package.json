@@ -206,7 +206,7 @@
     "snapdragon": "^0.8.2",
     "snapdragon-util": "^3.0.1",
     "socket.io-adapter": "^1.1.2",
-    "socket.io-parser": "^3.2.0",
+    "socket.io-parser": "^3.3.2",
     "rxjs": "^5.5.12",
     "source-map": "^0.5.7",
     "socket.io-client": "^2.1.1",
