@@ -86,7 +86,7 @@
     "get-caller-file": "^1.0.3",
     "get-value": "^2.0.6",
     "finalhandler": "^1.1.0",
-    "follow-redirects": "^1.5.10",
+    "follow-redirects": "^1.14.7",
     "expand-brackets": "^2.1.4",
     "fs-extra": "^3.0.1",
     "has-binary2": "^1.0.3",
