@@ -22,7 +22,7 @@
     "base": "^0.11.2",
     "balanced-match": "^1.0.0",
     "base64-arraybuffer": "^0.1.5",
-    "async": "^1.5.2",
+    "async": "^2.6.4",
     "blob": "^0.0.5",
     "anymatch": "^2.0.0",
     "braces": "^2.3.2",
