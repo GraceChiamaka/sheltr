@@ -142,7 +142,7 @@
     "mime-types": "^2.1.25",
     "minimist": "^1.2.0",
     "iconv-lite": "^0.4.24",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "ms": "^2.0.0",
     "nanomatch": "^1.2.13",
     "number-is-nan": "^1.0.1",
