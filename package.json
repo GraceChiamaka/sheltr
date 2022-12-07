@@ -179,7 +179,7 @@
     "range-parser": "^1.2.1",
     "read-pkg-up": "^1.0.1",
     "readable-stream": "^2.3.6",
-    "qs": "^6.2.3",
+    "qs": "^6.2.4",
     "remove-trailing-separator": "^1.1.0",
     "regex-not": "^1.0.2",
     "repeat-element": "^1.1.3",
